@@ -48,12 +48,12 @@ I intend to improve my skills after completing the Yandex Practicum course:
 [//]: # (  Solve <b>...</b> tasks on <a href="https://www.codewars.com/users/IrinaGarmaeva">Codewars</a>, <b>...</b> - on <a href="">...</a>)
 </div>
 
-<h2 align="center">✉️ Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 <div align="center">
   <a href="mailto:garmaeva-i@mail.ru" target="_blank">
     <img src="./src/mailIcon.svg" alt="IrinaGarmaeva" height="40" width="40">
   </a>
   <a href="https://t.me/itokyo9" target="_blank">
-    <img src="./src/telegramIcon.svg" alt="IrinaGarmaeva" height="35" width="40">
+    <img src="./src/telegramIcon.svg" alt="IrinaGarmaeva" height="40" width="40">
   </a>
 </div>
