@@ -58,4 +58,4 @@ I intend to improve my skills after completing the Yandex Practicum course:
   </a>
 </div>
 
-![visitors](https://komarev.com/ghpvc/?username=IrinaGarmaeva&label=visitors&color=blue)
+
