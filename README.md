@@ -57,3 +57,5 @@ I intend to improve my skills after completing the Yandex Practicum course:
     <img src="./src/telegramIcon.svg" alt="IrinaGarmaeva" height="40" width="40">
   </a>
 </div>
+
+![visitors](https://komarev.com/ghpvc/?username=IrinaGarmaeva&label=visitors&color=blue)
