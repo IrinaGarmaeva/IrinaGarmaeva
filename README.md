@@ -6,7 +6,7 @@
 <h2 align="center">👨🏼‍💻 About me</h2>
 <div>
 I am a frontend developer with a unique background in sales and business automation and a strong passion for web development. With 6 years of experience in sales, I bring a customer-centric approach to my frontend development projects.
-I completed web development course at Yandex Practicum. Through my studies, I have gained a solid understanding of HTML, CSS, JavaScript and React to create dynamic and interactive web applications.
+I completed web development course at Yandex Practicum. Through my studies, I have gained a solid understanding of HTML, CSS, JavaScript, React and Redux to create dynamic and interactive web applications.
 </div>
 
 My goals:
@@ -19,6 +19,7 @@ In addition I have a deep love for nature, cooking, travelling, and creating han
 
 I intend to improve my skills after completing the Yandex Practicum course:
 * TypeScript
+* Redux Saga
 * Bootstrap, Tailwind
 
 <h2 align="center">🛠️ Stack</h2>
