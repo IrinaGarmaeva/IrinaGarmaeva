@@ -17,10 +17,11 @@ My goals:
 
 In addition I have a deep love for nature, cooking, travelling, and creating handmade jewelry. I find solace in nature and outdoor activities. Exploring scenic trails, hiking through mountains, and capturing breathtaking landscapes through photography fuel my creativity and provide a fresh perspective.
 
-I intend to improve my skills after completing the Yandex Practicum course:
-* TypeScript
+I intend to improve my skills:
 * Redux Saga
-* Bootstrap, Tailwind
+* Bootstrap
+* Next.js
+* AWS
 
 <h2 align="center">🛠️ Stack</h2>
 
